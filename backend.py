@@ -5,7 +5,7 @@ import json
 import traceback
 import time
 import logging
-from face_recognition import face_match
+
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, 
